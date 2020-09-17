@@ -1,0 +1,6 @@
+module Pods_MVTest {
+  umbrella header "Pods-MVTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
